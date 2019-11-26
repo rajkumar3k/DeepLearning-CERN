@@ -4,4 +4,4 @@ Applications of machine learning optimization techniques on CERN data.
 If a compilation error occurs, compare interpreter packages to this list:
 
 ![BayesPy Dependencies]
-(https://imgur.com/a/eoWUAZ0)
+(https://i.imgur.com/gNoYQma.png)
